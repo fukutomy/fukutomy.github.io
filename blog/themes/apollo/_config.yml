@@ -18,3 +18,9 @@ duoshuo:
 
 # Copyright Infomation
 startyear: 2019
+
+archive_generator:
+    per_page: 10
+    yearly: false
+    monthly: false
+    daily: false
